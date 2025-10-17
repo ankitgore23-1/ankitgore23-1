@@ -1,9 +1,33 @@
-🎓 BCA (Bachelor of Computer Applications), 3th Year
-📍 The Neotia University, India
+  👋 Hi there, I'm Ankit Gore
 
-Aspiring software developer with a strong foundation in computer applications and a passion for building real-world tech solutions. Proficient in web development, programming fundamentals, and collaborative coding. Actively working on enhancing my skills in full-stack development, cloud computing, and open-source contribution.
+🎓 **BCA 5th Year Student** at **The Neotia University**  
+💻 Aspiring Software Developer | Tech Enthusiast | Open Source Learner  
 
-🔧 Skills: HTML, CSS, JavaScript, Python, Java, Git & GitHub
-🌱 Currently learning: React.js, Node.js, and cloud technologies
-📁 Portfolio projects coming soon — stay tuned!
-🤝 Open to internships, project collaborations, and networking opportunities
+---
+
+## 🧑‍💻 About Me
+
+I'm a passionate and dedicated computer applications student with an interest in building clean, efficient, and user-focused software. I'm currently exploring modern web technologies, full-stack development, and cloud computing to strengthen my development skills.
+
+- 🔭 I’m currently working on personal web and app development projects
+- 🌱 I’m learning React.js, Node.js, and cloud platforms like AWS
+- 💬 Ask me about HTML, CSS, JavaScript, Python, or Java
+- 🤝 I’m open to collaborating on tech projects, internships, and hackathons
+- 📫 How to reach me: ankitgore00@gmai.com
+
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages**: Java, Python, JavaScript, C
+- **Web**: HTML5, CSS3, Bootstrap, React.js (learning), Node.js (learning)
+- **Tools**: Git, GitHub, VS Code, Postman
+- **Other**: Basic SQL, OOP, Data Structures
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn:https://www.linkedin.com/in/ankit-gore-b35688309/
+
