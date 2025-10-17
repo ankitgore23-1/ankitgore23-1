@@ -1,6 +1,6 @@
   👋 Hi there, I'm Ankit Gore
 
-🎓 **BCA 5th Year Student** at **The Neotia University**  
+🎓 **BCA 3th Year Student** at **The Neotia University**  
 💻 Aspiring Software Developer | Tech Enthusiast | Open Source Learner  
 
 ---
